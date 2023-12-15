@@ -16,7 +16,7 @@ TicTaCpp é uma implementação simples do clássico jogo da velha (Tic Tac Toe)
 2. Navegue até o diretório onde os arquivos do jogo estão localizados.
 3. Compile o jogo usando um compilador C++ compatível com C++11 ou superior:
     ```bash
-    g++ TicTaCpp.cpp -o TicTaCpp
+    g++ main.cpp -o TicTaCpp
     ```
 4. Para executar o jogo, use o comando:
     ```bash
@@ -30,7 +30,7 @@ TicTaCpp é uma implementação simples do clássico jogo da velha (Tic Tac Toe)
 - O primeiro jogador a conseguir isso é o vencedor.
 
 ## Estrutura do Código
-- `TicTaCpp.cpp`: Contém o código principal do jogo.
+- `main.cpp`: Contém o código principal do jogo.
 
 ## Exemplo de Uso
 ```
